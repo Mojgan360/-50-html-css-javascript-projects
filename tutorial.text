@@ -1,0 +1,6 @@
+Transition-Delay : مدت زمانی برای شروع و پایان عمل انتقال
+Transition-Duration : مدت زمانی برای عمل انتقال
+Transition-Property : اون ویژگی که باید مورد عمل انتقال قرار بگیرد
+Transition-Timing-Function : تابعی برای انجام عمل انتقال
+
+
